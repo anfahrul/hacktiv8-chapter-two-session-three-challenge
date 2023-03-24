@@ -10,7 +10,7 @@ var lock = &sync.Mutex{}
 
 const (
 	HOST     = "localhost"
-	PORT     = 5432
+	PORT     = 5433
 	USERNAME = "postgres"
 	PASSWORD = "pwd"
 	DBNAME   = "hacktiv8_books"
